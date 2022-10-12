@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### API USER:
+Rapid API: [https://rapidapi.com/wirefreethought/api/geodb-cities/](https://rapidapi.com/wirefreethought/api/geodb-cities/)
+
+OpenWeathr API: [https://openweathermap.org/current](https://openweathermap.org/current)
+
+### YUTUBE VIDEO
+React JS Tutorial – Build a Weather App With Cities Autocomplete: [https://www.youtube.com/watch?v=Reny0cTTv24&t=1670s](https://www.youtube.com/watch?v=Reny0cTTv24&t=1670s)
